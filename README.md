@@ -10,7 +10,7 @@
 
 ## Objetivo 🎯
 
-O objetivo deste projeto é analisar um [banco de dados](https://www.kaggle.com/datasets/shivamb/netflix-shows) que contém informações acerca do catálogo de filmes e séries presentes no serviço de streaming Netflix, tendo como etapas centrais:
+O objetivo deste projeto é analisar um [banco de dados](https://www.kaggle.com/datasets/narayan63/netflix-popular-movies-dataset) que contém informações acerca do catálogo de filmes e séries presentes no serviço de streaming Netflix, tendo como etapas centrais:
 
 > **-** Análise inicial do Dataset;
 > **-** Limpeza e verificação de integridade dos dados;
